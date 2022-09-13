@@ -19,4 +19,4 @@ Here is the repository structure:
     └── project
 ```
 
-
+a change to readme file to test added rule on master when trying to make a change to master.
